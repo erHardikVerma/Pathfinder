@@ -1,8 +1,8 @@
-# JobPilot 🚀
+# Pathfinder 🚀
 
 **Your personal AI-powered copilot for automating the job search process.**
 
-JobPilot is a Python-based automation tool designed to streamline the job hunt for freshers and professionals. It intelligently scrapes opportunities from major job platforms, filters them based on your unique profile and eligibility, and organizes them into a daily, actionable report.
+Pathfinder is a Python-based automation tool designed to streamline the job hunt for freshers and professionals. It intelligently scrapes opportunities from major job platforms, filters them based on your unique profile and eligibility, and organizes them into a daily, actionable report.
 
 ---
 
