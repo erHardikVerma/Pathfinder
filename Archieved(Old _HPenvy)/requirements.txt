@@ -1,0 +1,4 @@
+pandas #pandas for data handling
+playwright #used for scrapping (pip install playwright - "remote control")
+#playwright install - the "drones" / browsers
+python-dotenv
